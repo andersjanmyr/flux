@@ -14,6 +14,10 @@ spec:
     spec:
       serviceAccount: flux
       volumes:
+      - name: sshdir
+        configMap:
+          name: ssh-config
+          defaultMode: 0600
       - name: git-key
         secret:
           secretName: flux-git-deploy
@@ -36,6 +40,9 @@ spec:
         ports:
         - containerPort: 3030 # informational
         volumeMounts:
+        - name: sshdir
+          mountPath: /root/.ssh
+          readOnly: true
         - name: git-key
           mountPath: /etc/fluxd/ssh # to match image's ~/.ssh/config
           readOnly: true # this will be the case perforce in K8s >=1.10
