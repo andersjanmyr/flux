@@ -68,29 +68,29 @@ observability and insights into your cluster as well. It simplifies
 deployment, monitoring and management for containers and microservices.
 Read our full feature comparison to find out what's for you.
 
-|                                                                                                     | OSS Flux | Weave Cloud |
-| --------------------------------------------------------------------------------------------------- |:--------:|:-----------:|
-| &#x026AB; Continuously deploy any workload into Kubernetes                                          | x        | x           |
-| &#x026AB; Automated deployments (or manual)                                                         | x        | x           |
-| &#x026AB; Rollbacks (Automatic or one-click manual)                                                 | x        | x           |
-| &#x026AB; Audit trail (who did what when) of deployments/commits/alerts/notifications               | x        | x           |
-| &#x026AB; Batch operations (control workloads and their deployment strategies easily)               | x        | x           |
-| &#x026AB; Ensures that the cluster state matches the config in git                                  | x        | x           |
-| &#x026AB; Operators can lock a deployment and state why                                             | x        | x           |
-| &#x026AB; Helm support for deployments (alpha)                                                      | x        | x           |
-| &#x026AB; Dashboard + Overview of the deployment state (version, automation status, locks, etc).    |          | x           |
-| &#x026AB; Web UI with one-click ops                                                                 |          | x           |
-| &#x026AB; Easy config repo set up                                                                   |          | x           |
-| &#x026AB; Custom alerts (Route deployment notifications to slack, email, browser)                   |          | x           |
-| &#x026AA; Automated monitoring and dashboards for workloads and nodes right after install           |          | x           |
-| &#x026AA; Built-in RED metrics (latency/request duration of your workloads) using hosted prometheus |          | x           |
-| &#x026AA; Jupyter-style notebooks + dashboards                                                      |          | x           |
-| &#x026AA; Inspect and learn from 13 months of Prometheus-based metrics and cluster state            |          | x           |
-| &#x026AA; Use GCP Stackdriver and get logs and events aggregated                                    |          | x           |
-| &#x026AA; Debug and explore the state of your cluster in real-time                                  |          | x           |
-| &#x026AA; Inspect and analyse the cluster and workloads history stats from a date in the past       |          | x           |
-| &#x026AA; Invite team members to your cluster                                                       |          | x           |
-| &#x026AA; Metrics of workloads are automatically* discovered and instantly available                |          | x           |
+|                                                                                                  | OSS Flux | Weave Cloud |
+| ------------------------------------------------------------------------------------------------ |:--------:|:-----------:|
+| &#x026AB; Continuously deploy any workload into Kubernetes                                       | x        | x           |
+| &#x026AB; Automated deployments (or manual)                                                      | x        | x           |
+| &#x026AB; Rollbacks (Automatic or one-click manual)                                              | x        | x           |
+| &#x026AB; Audit trail (who did what when) of deployments/commits/alerts/notifications            | x        | x           |
+| &#x026AB; Batch operations (control workloads and their deployment strategies easily)            | x        | x           |
+| &#x026AB; Ensures that the cluster state matches the config in git                               | x        | x           |
+| &#x026AB; Operators can lock a deployment and state why                                          | x        | x           |
+| &#x026AB; Helm support for deployments (alpha)                                                   | x        | x           |
+| &#x026AB; Dashboard + Overview of the deployment state (version, automation status, locks, etc). |          | x           |
+| &#x026AB; Web UI with one-click ops                                                              |          | x           |
+| &#x026AB; Easy config repo set up                                                                |          | x           |
+| &#x026AB; Custom alerts (Route deployment notifications to slack, email, browser)                |          | x           |
+| &#x026AA; Automated monitoring and dashboards for workloads and nodes right after install        |          | x           |
+| &#x026AA; Built-in RED metrics (latency/request duration of workloads) using hosted prometheus   |          | x           |
+| &#x026AA; Jupyter-style notebooks + dashboards                                                   |          | x           |
+| &#x026AA; Inspect and learn from 13 months of Prometheus-based metrics and cluster state         |          | x           |
+| &#x026AA; Use GCP Stackdriver and get logs and events aggregated                                 |          | x           |
+| &#x026AA; Debug and explore the state of your cluster in real-time                               |          | x           |
+| &#x026AA; Inspect and analyse the cluster and workloads history stats from a date in the past    |          | x           |
+| &#x026AA; Invite team members to your cluster                                                    |          | x           |
+| &#x026AA; Metrics of workloads are automatically* discovered and instantly available             |          | x           |
 | &#x026AA; Many more [observability features in Weave Cloud](https://www.weave.works/features/troubleshooting-dashboard/) |          | x           |
 | &#x026AA; Many more [monitoring features in Weave Cloud](https://www.weave.works/features/prometheus-monitoring/)        |          | x           |
 
