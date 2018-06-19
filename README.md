@@ -91,10 +91,8 @@ Read our full feature comparison to find out what's for you.
 | &#x026AA; Inspect and analyse the cluster and workloads history stats from a date in the past           |          | x           |
 | &#x026AA; Invite team members to your cluster                                                           |          | x           |
 | &#x026AA; Metrics of workloads are automatically* discovered and instantly available                    |          | x           |
-| &#x026AA; Many more [observability features in Weave
-                       Cloud](https://www.weave.works/features/troubleshooting-dashboard/)                |          | x           |
-| &#x026AA; Many more [monitoring features in Weave
-                       Cloud](https://www.weave.works/features/prometheus-monitoring/)                    |          | x           |
+| &#x026AA; Many more [observability features in Weave Cloud](https://www.weave.works/features/troubleshooting-dashboard/) |          | x           |
+| &#x026AA; Many more [monitoring features in Weave Cloud](https://www.weave.works/features/prometheus-monitoring/)        |          | x           |
 
 | Legend                                                                                             |
 | -------------------------------------------------------------------------------------------------- |
