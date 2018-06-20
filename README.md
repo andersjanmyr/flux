@@ -75,7 +75,7 @@ Read our full feature comparison to find out what's for you.
 | &#x026AB; Helm support for deployments (alpha)                                                   | x        | x           |
 | &#x026AB; Dashboard + Overview of the deployment state (version, automation status, locks, etc). |          | x           |
 | &#x026AB; Web UI with one-click ops                                                              |          | x           |
-| &#x026AB; Easy config repo set up                                                                |          | x           |
+| &#x026AB; Set up your deployment config easily                                                   |          | x           |
 | &#x026AB; Custom alerts (Route deployment notifications to slack, email, browser)                |          | x           |
 | &#x026AA; Automated monitoring and dashboards for workloads and nodes right after install        |          | x           |
 | &#x026AA; Built-in [RED metrics] (latency/request duration of workloads) using hosted prometheus |          | x           |
