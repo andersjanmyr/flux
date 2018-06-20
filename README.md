@@ -71,7 +71,7 @@ Read our full feature comparison to find out what's for you.
 | &#x026AB; Audit trail (who did what when) of deployments/commits/alerts/notifications            | x        | x           |
 | &#x026AB; Batch operations (control workloads and their deployment strategies easily)            | x        | x           |
 | &#x026AB; Ensures that the cluster state matches the config in git                               | x        | x           |
-| &#x026AB; Operators can lock a deployment and state why                                          | x        | x           |
+| &#x026AB; Interrupt automatic deployments and document why                                       | x        | x           |
 | &#x026AB; Helm support for deployments (alpha)                                                   | x        | x           |
 | &#x026AB; Dashboard + Overview of the deployment state (version, automation status, locks, etc). |          | x           |
 | &#x026AB; Web UI with one-click ops                                                              |          | x           |
