@@ -83,7 +83,7 @@ Read our full feature comparison to find out what's for you.
 | &#x026AB; Easy config repo set up                                                                |          | x           |
 | &#x026AB; Custom alerts (Route deployment notifications to slack, email, browser)                |          | x           |
 | &#x026AA; Automated monitoring and dashboards for workloads and nodes right after install        |          | x           |
-| &#x026AA; Built-in RED metrics (latency/request duration of workloads) using hosted prometheus   |          | x           |
+| &#x026AA; Built-in [RED metrics](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/) (latency/request duration of workloads) using hosted prometheus   |          | x           |
 | &#x026AA; Jupyter-style notebooks + dashboards                                                   |          | x           |
 | &#x026AA; Inspect and learn from 13 months of Prometheus-based metrics and cluster state         |          | x           |
 | &#x026AA; Use GCP Stackdriver and get logs and events aggregated                                 |          | x           |
