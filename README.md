@@ -57,14 +57,9 @@ Its major features are:
 
 ### Relation to Weave Cloud
 
-Flux is open-source and makes GitOps happen in your cluster in a secure and
-obvious way: you don't need a separate CD tool, instead you make CD part of
-the orchestration system in the cluster. Flux will ensure that the cluster
-state always matches the config in git.
-
-Weave Cloud builds on top of the great work in Flux and is our SaaS product
-that along with a UI and alerts for deployments, gives you full
-observability and insights into your cluster as well. It simplifies
+Weave Cloud builds on top of the great work in Flux and is a SaaS product
+by Weaveworks that along with a UI and alerts for deployments, gives you
+full observability and insights into your cluster as well. It simplifies
 deployment, monitoring and management for containers and microservices.
 Read our full feature comparison to find out what's for you.
 
